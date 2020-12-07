@@ -1,5 +1,12 @@
-# IMDB-Rating
+# IMDB-Ratings
 
+## File Description
+1. Case Study.txt: Problem Statement
+2. IMDB Ratings.html: HTML version of already executed Jupyter Notebook
+3. IMDB Ratings.ipynb: Jupyter Notebook
+4. movie_review_data.csv: CSV Data File
+
+## Steps 
 1. Importing Data
 2. Cleaning Data
 3. Feature Engineering
