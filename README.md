@@ -36,4 +36,4 @@
     - Thorough analysis for each class
     - More efficient encoding techniques
     - Stacked Ensemble
-    - PCA to further reduce dimension of continous variable more efficiently (after standardization)
+    - PCA to further reduce dimension of continous variable without information loss (after standardization)
